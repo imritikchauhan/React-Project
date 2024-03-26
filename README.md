@@ -9,8 +9,8 @@ Welcome to the iPhone 15 Website project! This repository contains the code for 
 To get started, clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone https://github.com/imritikchauhan/React-Project.git
+cd React-Project
 ```
 ## Installing Dependencies
 Once you have cloned the repository, navigate to the project directory and install the dependencies using npm:
